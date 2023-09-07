@@ -11,4 +11,7 @@ class MainActivity : AppCompatActivity() {
      public fun matematika(){
          var b = 1+1
      }
+    public fun keisar(){
+        var a = 2+2
+    }
 }
